@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+
+{% for item in site.data.navigation %}
+  <a href="{{ item.link }}">
+    {{ item.name }}
+  </a>
+{% endfor %}
+
