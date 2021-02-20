@@ -1,3 +1,15 @@
 title: Site title
 description: Description of site
 theme: jekyll-theme-architect
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignments"
+  - scope:
+      path: ""
+      type: "something"
+    values:
+      layout: "something"
