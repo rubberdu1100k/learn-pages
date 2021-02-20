@@ -2,6 +2,12 @@ title: Site title
 description: Description of site
 theme: jekyll-theme-architect
 
+collections:
+  assignments:
+    output: true
+  something:
+    output: true
+
 defaults:
   - scope:
       path: ""
