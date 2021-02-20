@@ -1,5 +1,6 @@
 ---
 permalink: /assignmnets/
+layout: "base"
 ---
 ## Weekly Assignments
 
