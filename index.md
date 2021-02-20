@@ -1,7 +1,7 @@
 ---
 title: "Home Page"
-layout: "default"
+layout: "base"
 ---
 ### Information
-Name: Emily Blunt
-Class: X
+Name: Emily Blunt  
+Class: X  
