@@ -1,6 +1,6 @@
 ---
 permalink: /assignments/
-layout: "assignments"
+layout: "base"
 ---
 ## Weekly Assignments
 
