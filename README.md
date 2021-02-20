@@ -1,3 +1,8 @@
+---
+layout: default
+title: About Page
+---
+
 # My Static Site from Github Repo
 
 Here is [My Repo](https://github.com/rubberdu1100k/learn-pages)
