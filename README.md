@@ -1,9 +1,35 @@
 # My Static Site from Github Repo
 
 Here is [My Repo](https://github.com/rubberdu1100k/learn-pages)
+Here is [The Page](rubberdu1100k.github.io/learn-pages/)
 
-Here are something files in the repo:
+### Here are links of something:
 - [Something no 1](https://github.com/rubberdu1100k/learn-pages/blob/master/something/01.txt)
+
+### [Weekly Assignments]()
+
+### [Top 10 List]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Welcome to GitHub Pages
