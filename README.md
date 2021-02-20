@@ -1,3 +1,11 @@
+# My Static Site from Github Repo
+
+Here is [My Repo](https://github.com/rubberdu1100k/learn-pages)
+
+Here are something files in the repo:
+- [Something no 1](https://github.com/rubberdu1100k/learn-pages/blob/master/something/01.txt)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rubberdu1100k/learn-pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
