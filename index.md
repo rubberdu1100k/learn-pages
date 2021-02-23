@@ -7,8 +7,8 @@
 ## Section 1
 Here's [the repo](https://github.com/rubberdu1100k/learn-pages/tree/simple-pg)
 
-[home](https://github.com/rubberdu1100k/learn-pages/index.md)
-[w01](https://github.com/rubberdu1100k/learn-pages/w01.md)
-[w02](https://github.com/rubberdu1100k/learn-pages/w02.md)
-[w03](https://github.com/rubberdu1100k/learn-pages/w03.md)
-[list](https://github.com/rubberdu1100k/learn-pages/list.md)
+[home](https://rubberdu1100k.github.io/learn-pages/index.md)
+[w01](https://rubberdu1100k.github.io/learn-pages/w01.md)
+[w02](https://rubberdu1100k.github.io/learn-pages/w02.md)
+[w03](https://rubberdu1100k.github.io/learn-pages/w03.md)
+[list](https://rubberdu1100k.github.io/learn-pages/list.md)
