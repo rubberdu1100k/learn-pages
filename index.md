@@ -2,7 +2,7 @@
 
 ## Header
 [Home]() | [Week1](w01) | [Week2](w02) 
-| [Week3](w03) | [List](list)
+| [Week3](w03) | [Log](file/something.txt)
 
 
 ## Section 1
