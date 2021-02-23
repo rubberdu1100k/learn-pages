@@ -1,7 +1,8 @@
 # Title
 
 ## Header
-[Home]() | [Week1](w01) | [Week2](w02) | [Week3](w03) | [List](list)
+[Home]() | [Week1](w01) | [Week2](w02) 
+| [Week3](w03) | [List](list)
 
 
 ## Section 1
