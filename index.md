@@ -1,7 +1,6 @@
----
-title: "Home Page"
-layout: "base"
----
-### Information
-Name: Emily Blunt  
-Class: X  
+# Title
+
+## Header
+Some description or about information.
+
+## Section 1
